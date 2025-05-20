@@ -1,0 +1,87 @@
+{
+  "graph": {
+    "/zibaldone/posts/zettelkasten_1/": {
+      "in": [],
+      "out": []
+    },
+    "/zibaldone/posts/zettelkasten_2/": {
+      "in": [],
+      "out": []
+    },
+    "/zibaldone/posts/zettelkasten_3/": {
+      "in": [],
+      "out": []
+    },
+    "/zibaldone/posts/zettelkasten_4/": {
+      "in": [],
+      "out": []
+    },
+    "/zibaldone/posts/zettelkasten_5/": {
+      "in": [],
+      "out": []
+    },
+    "/zibaldone/posts/zibaldone_1/": {
+      "in": [],
+      "out": []
+    },
+    "/zibaldone/posts/zibaldone_2/": {
+      "in": [],
+      "out": []
+    },
+    "/zibaldone/posts/zibaldone_3/": {
+      "in": [],
+      "out": []
+    },
+    "/zibaldone/posts/zibaldone_4/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/zibaldone/posts/zettelkasten_1/": {
+      "permalink": "/zibaldone/posts/zettelkasten_1/",
+      "section": "posts",
+      "title": "Zettelkasten 1"
+    },
+    "/zibaldone/posts/zettelkasten_2/": {
+      "permalink": "/zibaldone/posts/zettelkasten_2/",
+      "section": "posts",
+      "title": "Zettelkasten 2"
+    },
+    "/zibaldone/posts/zettelkasten_3/": {
+      "permalink": "/zibaldone/posts/zettelkasten_3/",
+      "section": "posts",
+      "title": "Zettelkasten 3"
+    },
+    "/zibaldone/posts/zettelkasten_4/": {
+      "permalink": "/zibaldone/posts/zettelkasten_4/",
+      "section": "posts",
+      "title": "Zettelkasten 4"
+    },
+    "/zibaldone/posts/zettelkasten_5/": {
+      "permalink": "/zibaldone/posts/zettelkasten_5/",
+      "section": "posts",
+      "title": "Zettelkasten 5"
+    },
+    "/zibaldone/posts/zibaldone_1/": {
+      "permalink": "/zibaldone/posts/zibaldone_1/",
+      "section": "posts",
+      "title": "Zibaldone 1"
+    },
+    "/zibaldone/posts/zibaldone_2/": {
+      "permalink": "/zibaldone/posts/zibaldone_2/",
+      "section": "posts",
+      "title": "Zibaldone 2"
+    },
+    "/zibaldone/posts/zibaldone_3/": {
+      "permalink": "/zibaldone/posts/zibaldone_3/",
+      "section": "posts",
+      "title": "Zibaldone 3"
+    },
+    "/zibaldone/posts/zibaldone_4/": {
+      "permalink": "/zibaldone/posts/zibaldone_4/",
+      "section": "posts",
+      "title": "Zibaldone 4"
+    }
+  }
+}
