@@ -15,7 +15,7 @@ enableRobotsTXT = true
 
 [menus]
   [[menus.main]]
-    name = 'Posts'
+    name = 'Entries'
     pageRef = '/posts'
     weight = 30
 
