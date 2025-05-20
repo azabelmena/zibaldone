@@ -12,7 +12,7 @@
   in
   {
     devShells.${system} = {
-      zettel = pkgs.mkShell{
+      zibal = pkgs.mkShell{
         name = "zibal";
 
         nativeBuildInputs = with pkgs; [
